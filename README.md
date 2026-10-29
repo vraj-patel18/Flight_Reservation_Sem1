@@ -14,6 +14,7 @@ FILES
 - booking.py: booking, viewing, cancellation, history
 - database.sql: creates the MySQL database and tables
 - seat_matrices/: one CSV file per flight is created here
+- gui.py: contains tkinter code for basic frontend 
 
 SETUP
 1. Run database.sql in MySQL Workbench.
